@@ -1,0 +1,129 @@
+.footer{
+    text-align: center;
+    font-size: 10px;
+
+}
+
+p.text{
+    text-align: justify;
+    font-size: 18px;
+    text-indent: 10px;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#location{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px; color: #dedede;
+    border-radius: 5px;
+    opacity: .7;
+}
+
+h2{
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    font-weight: 300;
+
+}
+
+h3{
+
+    background-color: #349655;
+    font-size: 16px;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+h3 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+
+h3 a:hover{
+    color: #f1ce51;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    color: rgb(238, 238, 238);
+    padding-top: 100px;
+    text-shadow: 3px 2px black;
+    letter-spacing: 5px;
+
+}
+
+.product{
+    width: 30%;
+    border: 1px solid rgb(161, 158, 158);
+    float: left;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+
+
+}
+
+.product:hover{
+    transform: scale(1.1);
+}
+
+.imgProduct{
+    width: 80%;
+
+
+}
+
+.iphone{
+
+    width: 74%;
+}
+
+.imac{
+
+    width: 89%;
+}
+
+.founder{
+
+    text-align: center;
+}
+
+.jobs{
+    width: 30%;
+
+
+}
+
+p.me{
+    text-align: center;
+    font-size: 18px;
+    text-indent: 10px;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+
+h3.mission{
+    text-align: center;
+
+}
